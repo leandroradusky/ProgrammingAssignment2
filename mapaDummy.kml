@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<kml xmlns='http://www.opengis.net/kml/2.2'>
+	<Document>
+		<name>Mapa De Prueba</name>
+		<description><![CDATA[Primera prueba de crear un mapa]]></description>
+		<NetworkLink>
+			<name>Mapa De Prueba</name>
+			<Link>
+				<href>http://mapsengine.google.com/map/kml?forcekml=1&amp;mid=zq1AXKj1kYNM.ksp9e01nfkeI</href>
+			</Link>
+		</NetworkLink>
+	</Document>
+</kml>
