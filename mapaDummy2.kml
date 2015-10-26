@@ -1,0 +1,181 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<kml xmlns='http://www.opengis.net/kml/2.2'>
+	<Document>
+		<name>Mapa sin nombre</name>
+		<description><![CDATA[]]></description>
+		<Folder>
+			<name>Capa sin título</name>
+			<Placemark>
+				<name>Agronomia</name>
+				<description><![CDATA[Una esquina]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-58.47902299999999,-34.5996556,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Museo de Ciencias</name>
+				<description><![CDATA[Naturales]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-58.43782420000001,-34.6053075,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Camino Uno</name>
+				<description><![CDATA[Eso]]></description>
+				<styleUrl>#line-D698AD-16</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>-58.47902299999999,-34.5996556,0.0 -58.458509400000004,-34.6044597,0.0 -58.4520721,-34.6000089,0.0 -58.4456348,-34.6073562,0.0 -58.43782420000001,-34.6053075,0.0</coordinates>
+				</LineString>
+			</Placemark>
+			<Placemark>
+				<name>Camino Dos</name>
+				<description><![CDATA[Eso mismo]]></description>
+				<styleUrl>#line-DB4436-15</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>-58.47919459999999,-34.5983133,0.0 -58.4778213,-34.5969002,0.0 -58.465375900000005,-34.5964056,0.0 -58.459024400000004,-34.5966176,0.0 -58.4391117,-34.6035413,0.0 -58.43782420000001,-34.6053075,0.0</coordinates>
+				</LineString>
+			</Placemark>
+			<Placemark>
+				<name>Poligono que indica</name>
+				<description><![CDATA[Ciercas Cosas]]></description>
+				<styleUrl>#poly-93D7E8-7-58</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<tessellate>1</tessellate>
+							<coordinates>-58.457221999999994,-34.6133607,0.0 -58.4593678,-34.6139258,0.0 -58.4585953,-34.615974300000005,0.0 -58.4563637,-34.6156918,0.0 -58.457221999999994,-34.6133607,0.0</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</Placemark>
+		</Folder>
+		<Style id='icon-503-DB4436-normal'>
+			<IconStyle>
+				<color>ff3644DB</color>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+				</Icon>
+				<hotSpot x='16' y='31' xunits='pixels' yunits='insetPixels'>
+				</hotSpot>
+			</IconStyle>
+			<LabelStyle>
+				<scale>0.0</scale>
+			</LabelStyle>
+		</Style>
+		<Style id='icon-503-DB4436-highlight'>
+			<IconStyle>
+				<color>ff3644DB</color>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+				</Icon>
+				<hotSpot x='16' y='31' xunits='pixels' yunits='insetPixels'>
+				</hotSpot>
+			</IconStyle>
+			<LabelStyle>
+				<scale>1.1</scale>
+			</LabelStyle>
+		</Style>
+		<StyleMap id='icon-503-DB4436'>
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#icon-503-DB4436-normal</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#icon-503-DB4436-highlight</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Style id='line-D698AD-16-normal'>
+			<LineStyle>
+				<color>ffAD98D6</color>
+				<width>16</width>
+			</LineStyle>
+		</Style>
+		<Style id='line-D698AD-16-highlight'>
+			<LineStyle>
+				<color>ffAD98D6</color>
+				<width>24.0</width>
+			</LineStyle>
+		</Style>
+		<StyleMap id='line-D698AD-16'>
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#line-D698AD-16-normal</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#line-D698AD-16-highlight</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Style id='line-DB4436-15-normal'>
+			<LineStyle>
+				<color>ff3644DB</color>
+				<width>15</width>
+			</LineStyle>
+		</Style>
+		<Style id='line-DB4436-15-highlight'>
+			<LineStyle>
+				<color>ff3644DB</color>
+				<width>23.0</width>
+			</LineStyle>
+		</Style>
+		<StyleMap id='line-DB4436-15'>
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#line-DB4436-15-normal</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#line-DB4436-15-highlight</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Style id='poly-93D7E8-7-58-normal'>
+			<LineStyle>
+				<color>ffE8D793</color>
+				<width>7</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>3AE8D793</color>
+				<fill>1</fill>
+				<outline>1</outline>
+			</PolyStyle>
+		</Style>
+		<Style id='poly-93D7E8-7-58-highlight'>
+			<LineStyle>
+				<color>ffE8D793</color>
+				<width>11.0</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>3AE8D793</color>
+				<fill>1</fill>
+				<outline>1</outline>
+			</PolyStyle>
+		</Style>
+		<StyleMap id='poly-93D7E8-7-58'>
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#poly-93D7E8-7-58-normal</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#poly-93D7E8-7-58-highlight</styleUrl>
+			</Pair>
+		</StyleMap>
+	</Document>
+</kml>
