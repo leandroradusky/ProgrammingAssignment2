@@ -1,0 +1,558 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<kml xmlns='http://www.opengis.net/kml/2.2'>
+	<Document>
+		<name>Circuito desglosado</name>
+		<description><![CDATA[]]></description>
+		<Folder>
+			<name>Capa sin título</name>
+			<Placemark>
+				<name>Banco de la Nación Argentina</name>
+				<description><![CDATA[<img src="http://www.arcondebuenosaires.com.ar/demolicion--recova111.jpg" height="200" width="auto" /><br><br>Durante parte del siglo XIX, en este solar estuvo emplazado el primer Teatro Colón. Luego se emplazó el Banco Nacional y en la década de 1940 se construyó el actual edificio. ]]></description>
+				<styleUrl>#icon-971</styleUrl>
+				<ExtendedData>
+					<Data name='gx_media_links'>
+						<value>http://www.arcondebuenosaires.com.ar/demolicion--recova111.jpg</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-58.37125200000002,-34.607465,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Ex Gran Hotel Argentino</name>
+				<description><![CDATA[<img src="http://www.arcondebuenosaires.com.ar/mayo-argg-may-.jpg" height="200" width="auto" /><br><br>En este hotel José Hernández escribió el Martín Fierro. Originalmente, las recovas fueron construidas para resguardar a los transeúntes de las inclemencias del tiempo y a su vez para favorecer el comercio minorista. La Recova de Plaza de Mayo fue la más famosa y la atravesaba como una continuación de la calle Defensa.]]></description>
+				<styleUrl>#icon-1035</styleUrl>
+				<ExtendedData>
+					<Data name='gx_media_links'>
+						<value>http://www.arcondebuenosaires.com.ar/mayo-argg-may-.jpg</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-58.370648300000006,-34.6072712,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Casa Rosada</name>
+				<description><![CDATA[<img src="http://upload.wikimedia.org/wikipedia/commons/4/4b/Fuerte_de_Buenos_Aires.jpg" height="200" width="auto" /><br><br>Antiguamente, el Fuerte estaba emplazado en este solar; luego la casa de los Virreyes, la de los Gobernadores y posteriormente, el Palacio de Correos. Luego, ambos edificios serían modificados y unidos. Hace poco más de cien años, en este punto sólo veríamos el río y a las lavanderas.<br><br><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/CasaRosada1890.png/250px-CasaRosada1890.png" height="200" width="auto" /><br><br><img src="http://www.cienciayfe.com.ar/buenosaires/fotos/baacw109.jpg" height="200" width="auto" /><br><br><img src="http://files.chelo-historia.webnode.com.ar/system_preview_detail_200000299-e99a8eb8e1-public/BSAS.jpg" height="200" width="auto" />]]></description>
+				<styleUrl>#icon-1239</styleUrl>
+				<ExtendedData>
+					<Data name='gx_media_links'>
+						<value>http://upload.wikimedia.org/wikipedia/commons/4/4b/Fuerte_de_Buenos_Aires.jpg https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/CasaRosada1890.png/250px-CasaRosada1890.png http://www.cienciayfe.com.ar/buenosaires/fotos/baacw109.jpg http://files.chelo-historia.webnode.com.ar/system_preview_detail_200000299-e99a8eb8e1-public/BSAS.jpg</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-58.370277999999985,-34.608056,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Centro Cultural Kirchner</name>
+				<description><![CDATA[<img src="http://www.google-earth.es/index.php?name=Forums&file=download&id=40101" height="200" width="auto" /><br><br>Ex Palacio de Correos, fue inaugurado en 1928 luego de 40 años de construcción.]]></description>
+				<styleUrl>#icon-1289</styleUrl>
+				<ExtendedData>
+					<Data name='gx_media_links'>
+						<value>http://www.google-earth.es/index.php?name=Forums&amp;file=download&amp;id=40101</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-58.36949099999998,-34.603645,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Edificio Comega</name>
+				<description><![CDATA[<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Edificio_Comega_1933.JPG/200px-Edificio_Comega_1933.JPG" height="200" width="auto" /><br><br>Construido durante la década de 1930, fue uno de los primeros rascacielos de la ciudad. Se puede ingresar al Mc Donald´s y tener una hermosa vista de Alem, el Luna Park y demás.]]></description>
+				<styleUrl>#icon-993</styleUrl>
+				<ExtendedData>
+					<Data name='gx_media_links'>
+						<value>https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Edificio_Comega_1933.JPG/200px-Edificio_Comega_1933.JPG</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-58.37052499999999,-34.603174,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Plaza Roma</name>
+				<description><![CDATA[<img src="http://www.arcondebuenosaires.com.ar/paseo-julio005--.jpg" height="200" width="auto" /><br><br>Posee un ombú histórico. Y también uno de los primeros monumentos que existieron en la ciudad, dedicado a Giuseppe Mazzini, político y activista que luchó por la unificación de Italia. Cerca de la plaza estaba el antiguo Muelle de pasajeros.]]></description>
+				<styleUrl>#icon-1237</styleUrl>
+				<ExtendedData>
+					<Data name='gx_media_links'>
+						<value>http://www.arcondebuenosaires.com.ar/paseo-julio005--.jpg</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-58.37001900000002,-34.601271,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Edificio Alas</name>
+				<description><![CDATA[<img src="http://www.modernabuenosaires.org/img/obras/galeria/253_1415803449.jpg" height="200" width="auto" /><br><br>Construido a mediados del siglo XX, fue durante algunas décadas el edificio más alto de la ciudad. Originalmente denominado ATLAS (Asociación de Trabajadores Latinoamericanos), ya en manos de la Fuerza Aérea tomó su nombre actual.]]></description>
+				<styleUrl>#icon-993</styleUrl>
+				<ExtendedData>
+					<Data name='gx_media_links'>
+						<value>http://www.modernabuenosaires.org/img/obras/galeria/253_1415803449.jpg</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-58.37059740000001,-34.599139,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Catalinas Norte</name>
+				<description><![CDATA[<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/CatalinasBuenosAires.jpg/270px-CatalinasBuenosAires.jpg" height="200" width="auto" /><br><br>Esta zona de torres de oficinas comerciales toma su nombre inspirado en la vecina e histórica iglesia de Santa Catalina. Se desarrolló mayormente durante la década del setenta.]]></description>
+				<styleUrl>#poly-000000-1-76</styleUrl>
+				<ExtendedData>
+					<Data name='gx_media_links'>
+						<value>https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/CatalinasBuenosAires.jpg/270px-CatalinasBuenosAires.jpg</value>
+					</Data>
+				</ExtendedData>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<tessellate>1</tessellate>
+							<coordinates>-58.372882600000004,-34.594904199999995,0.0 -58.3713269,-34.5984281,0.0 -58.3698356,-34.5982161,0.0 -58.3714449,-34.5937649,0.0 -58.3721209,-34.59395919999999,0.0 -58.372947,-34.5949749,0.0 -58.372882600000004,-34.594904199999995,0.0</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</Placemark>
+			<Placemark>
+				<name>Edificio Kavanagh</name>
+				<styleUrl>#icon-503-DB4436-nodesc</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-58.37461500000001,-34.595469,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Torre Monumental</name>
+				<styleUrl>#icon-503-DB4436-nodesc</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-58.37375800000001,-34.592201,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Estación Ferroviaria de Retiro</name>
+				<styleUrl>#icon-503-DB4436-nodesc</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-58.37486699999999,-34.591619,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Leandro N. Alem</name>
+				<description><![CDATA[<img src="https://upload.wikimedia.org/wikipedia/commons/1/16/El_Bajo_(Rudolf_Carlsen).png" height="200" width="auto" /><br><br>Durante el Virreinato, esta zona fue conocida como "La Alameda" y fue el primer paseo público que tuvo la ciudad. Servía de lugar de encuentro y socialización para las clases altas. A mediados del siglo XIX fue rebautizado como Paseo de Julio realizándose mejoras. A fines del siglo XIX y hasta bien entrado el siglo XX, en la recova del “Bajo” abundaban los cafetines,fondas,posadas,hoteles de<br>baja categoría, roperías y “casas de tolerancia”.<br><br><img src="https://infinitaenphoto.files.wordpress.com/2010/02/1867-paseo-de-julio-hoy-alem.jpeg" height="200" width="auto" /><br><br><img src="http://www.malena-tango.com/wp-content/uploads/2009/09/recovas.jpg" height="200" width="auto" /><br><br><img src="http://mla-s1-p.mlstatic.com/postal-antigua-buenos-aires-avenida-alem-correo-colectivos-15027-MLA20094383272_052014-F.jpg" height="200" width="auto" />]]></description>
+				<styleUrl>#icon-991</styleUrl>
+				<ExtendedData>
+					<Data name='gx_media_links'>
+						<value>https://upload.wikimedia.org/wikipedia/commons/1/16/El_Bajo_(Rudolf_Carlsen).png https://infinitaenphoto.files.wordpress.com/2010/02/1867-paseo-de-julio-hoy-alem.jpeg http://www.malena-tango.com/wp-content/uploads/2009/09/recovas.jpg http://mla-s1-p.mlstatic.com/postal-antigua-buenos-aires-avenida-alem-correo-colectivos-15027-MLA20094383272_052014-F.jpg</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-58.3703137,-34.6062617,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Plaza San Martín</name>
+				<description><![CDATA[<img src="http://www.arcondebuenosaires.com.ar/retiro333.jpg" height="200" width="auto" /><br><br>Antiguamente hubo un edificio enorme que supo ser Depósito de Esclavos. Luego Plaza de Toros, luego lugar de entrenamiento de los Granaderos de San Martín.<br><br><img src="http://www.arcondebuenosaires.com.ar/toros555.JPG" height="200" width="auto" /><br><br><img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/Vista_General_de_Buenos_Aires_desde_la_Plaza_de_Toros.jpg" height="200" width="auto" />]]></description>
+				<styleUrl>#icon-1237</styleUrl>
+				<ExtendedData>
+					<Data name='gx_media_links'>
+						<value>http://www.arcondebuenosaires.com.ar/retiro333.jpg http://www.arcondebuenosaires.com.ar/toros555.JPG https://upload.wikimedia.org/wikipedia/commons/a/a7/Vista_General_de_Buenos_Aires_desde_la_Plaza_de_Toros.jpg</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-58.37537600000002,-34.594263,0.0</coordinates>
+				</Point>
+			</Placemark>
+		</Folder>
+		<Folder>
+			<name>Indicaciones de Av Rivadavia 201-299, C1002AAA CABA, Argentina a Eduardo Schiaffino 2200, C1129ACD CABA, Argentina</name>
+			<Placemark>
+				<name>Indicaciones de Av Rivadavia 201-299, C1002AAA CABA, Argentina a Eduardo Schiaffino 2200, C1129ACD CABA, Argentina</name>
+				<styleUrl>#line-1267FF-5-nodesc</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>-58.37089,-34.60727,0.0 -58.37088,-34.60735,0.0 -58.37037000000001,-34.60722,0.0 -58.37022,-34.60684,0.0 -58.37026999999999,-34.60652,0.0 -58.37022,-34.60638,0.0 -58.37026000000001,-34.60572,0.0 -58.37021,-34.6054,0.0 -58.37018,-34.60529,0.0 -58.37021,-34.60506,0.0 -58.37026000000001,-34.60452,0.0 -58.37028000000001,-34.60419,0.0 -58.3703,-34.60391,0.0 -58.37035999999999,-34.60326,0.0 -58.37037000000001,-34.60299,0.0 -58.37039,-34.6027,0.0 -58.37042,-34.6025,0.0 -58.37044999999999,-34.60213,0.0 -58.37049,-34.60187,0.0 -58.37055000000001,-34.601600000000005,0.0 -58.37056,-34.60157,0.0 -58.370659999999994,-34.60098,0.0 -58.370720000000006,-34.60064,0.0 -58.370810000000006,-34.600300000000004,0.0 -58.37091999999999,-34.59983,0.0 -58.37100999999999,-34.59951,0.0 -58.37109999999999,-34.59924,0.0 -58.37127,-34.59869,0.0 -58.37135,-34.59842,0.0 -58.371460000000006,-34.59824,0.0 -58.37165999999999,-34.59792,0.0 -58.37165999999999,-34.59791,0.0 -58.3717,-34.59784,0.0 -58.371930000000006,-34.5974,0.0 -58.372049999999994,-34.59716,0.0 -58.372490000000006,-34.59612,0.0 -58.37262,-34.59586,0.0 -58.3731,-34.59495,0.0 -58.373169999999995,-34.5948,0.0 -58.37322,-34.59469,0.0 -58.37328,-34.59453,0.0 -58.373290000000004,-34.59443,0.0 -58.37345,-34.59426,0.0 -58.37355,-34.5941,0.0 -58.37364,-34.59397,0.0 -58.37374,-34.59387,0.0 -58.37393,-34.59368,0.0 -58.37463000000001,-34.59328000000001,0.0 -58.37495,-34.59309,0.0 -58.37532,-34.59289,0.0 -58.375530000000005,-34.59279,0.0 -58.37579,-34.59257,0.0 -58.37581,-34.59255,0.0 -58.37583000000001,-34.59253,0.0 -58.37585,-34.59250000000001,0.0 -58.37590999999999,-34.59241,0.0 -58.37646999999999,-34.59204,0.0 -58.37669000000001,-34.59189,0.0 -58.37785999999999,-34.59111,0.0 -58.37834000000001,-34.59079,0.0 -58.37868,-34.59058,0.0 -58.378960000000006,-34.5904,0.0 -58.3792,-34.59023,0.0 -58.37948,-34.59007,0.0 -58.37967,-34.58995,0.0 -58.37997,-34.5898,0.0 -58.38056000000001,-34.58949,0.0 -58.380990000000004,-34.58927,0.0 -58.381460000000004,-34.58902,0.0 -58.381910000000005,-34.58878,0.0 -58.38225,-34.58859,0.0 -58.38289000000001,-34.58823,0.0 -58.38387,-34.58767,0.0 -58.38502,-34.58705,0.0 -58.38575000000001,-34.58664,0.0 -58.386010000000006,-34.58659,0.0 -58.386660000000006,-34.58628,0.0 -58.38747999999999,-34.58588,0.0 -58.38794999999999,-34.58566,0.0 -58.388670000000005,-34.58533,0.0</coordinates>
+				</LineString>
+			</Placemark>
+			<Placemark>
+				<name>Av Rivadavia 201-299, C1002AAA CABA, Argentina</name>
+				<styleUrl>#icon-503-DB4436-nodesc</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-58.3708891,-34.6072722,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Avenida Leandro N. Alem 224, Buenos Aires, Ciudad Autónoma de Buenos Aires</name>
+				<styleUrl>#icon-503-DB4436-nodesc</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-58.3702148,-34.6050553,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Av. del Libertador 2, C1001ABN CABA, Argentina</name>
+				<styleUrl>#icon-503-DB4436-nodesc</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-58.37393029999999,-34.5936755,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Av. del Libertador 101-131, C1001ABB CABA, Argentina</name>
+				<styleUrl>#icon-503-DB4436-nodesc</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-58.3758068,-34.592552,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Eduardo Schiaffino 2200, C1129ACD CABA, Argentina</name>
+				<styleUrl>#icon-503-DB4436-nodesc</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-58.3886717,-34.5853264,0.0</coordinates>
+				</Point>
+			</Placemark>
+		</Folder>
+		<Style id='icon-1035-normal'>
+			<IconStyle>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/1035-biz-hotel.png</href>
+				</Icon>
+			</IconStyle>
+			<LabelStyle>
+				<scale>0.0</scale>
+			</LabelStyle>
+		</Style>
+		<Style id='icon-1035-highlight'>
+			<IconStyle>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/1035-biz-hotel.png</href>
+				</Icon>
+			</IconStyle>
+			<LabelStyle>
+				<scale>1.1</scale>
+			</LabelStyle>
+		</Style>
+		<StyleMap id='icon-1035'>
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#icon-1035-normal</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#icon-1035-highlight</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Style id='icon-1237-normal'>
+			<IconStyle>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/1237-poi-cemetery.png</href>
+				</Icon>
+			</IconStyle>
+			<LabelStyle>
+				<scale>0.0</scale>
+			</LabelStyle>
+		</Style>
+		<Style id='icon-1237-highlight'>
+			<IconStyle>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/1237-poi-cemetery.png</href>
+				</Icon>
+			</IconStyle>
+			<LabelStyle>
+				<scale>1.1</scale>
+			</LabelStyle>
+		</Style>
+		<StyleMap id='icon-1237'>
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#icon-1237-normal</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#icon-1237-highlight</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Style id='icon-1239-normal'>
+			<IconStyle>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/1239-poi-civic.png</href>
+				</Icon>
+			</IconStyle>
+			<LabelStyle>
+				<scale>0.0</scale>
+			</LabelStyle>
+		</Style>
+		<Style id='icon-1239-highlight'>
+			<IconStyle>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/1239-poi-civic.png</href>
+				</Icon>
+			</IconStyle>
+			<LabelStyle>
+				<scale>1.1</scale>
+			</LabelStyle>
+		</Style>
+		<StyleMap id='icon-1239'>
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#icon-1239-normal</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#icon-1239-highlight</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Style id='icon-1289-normal'>
+			<IconStyle>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/1289-poi-museum.png</href>
+				</Icon>
+			</IconStyle>
+			<LabelStyle>
+				<scale>0.0</scale>
+			</LabelStyle>
+		</Style>
+		<Style id='icon-1289-highlight'>
+			<IconStyle>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/1289-poi-museum.png</href>
+				</Icon>
+			</IconStyle>
+			<LabelStyle>
+				<scale>1.1</scale>
+			</LabelStyle>
+		</Style>
+		<StyleMap id='icon-1289'>
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#icon-1289-normal</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#icon-1289-highlight</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Style id='icon-503-DB4436-nodesc-normal'>
+			<IconStyle>
+				<color>ff3644DB</color>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+				</Icon>
+				<hotSpot x='16' y='31' xunits='pixels' yunits='insetPixels'>
+				</hotSpot>
+			</IconStyle>
+			<LabelStyle>
+				<scale>0.0</scale>
+			</LabelStyle>
+			<BalloonStyle>
+				<text><![CDATA[<h3>$[name]</h3>]]></text>
+			</BalloonStyle>
+		</Style>
+		<Style id='icon-503-DB4436-nodesc-highlight'>
+			<IconStyle>
+				<color>ff3644DB</color>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+				</Icon>
+				<hotSpot x='16' y='31' xunits='pixels' yunits='insetPixels'>
+				</hotSpot>
+			</IconStyle>
+			<LabelStyle>
+				<scale>1.1</scale>
+			</LabelStyle>
+			<BalloonStyle>
+				<text><![CDATA[<h3>$[name]</h3>]]></text>
+			</BalloonStyle>
+		</Style>
+		<StyleMap id='icon-503-DB4436-nodesc'>
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#icon-503-DB4436-nodesc-normal</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#icon-503-DB4436-nodesc-highlight</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Style id='icon-971-normal'>
+			<IconStyle>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/971-biz-bank-dollar.png</href>
+				</Icon>
+			</IconStyle>
+			<LabelStyle>
+				<scale>0.0</scale>
+			</LabelStyle>
+		</Style>
+		<Style id='icon-971-highlight'>
+			<IconStyle>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/971-biz-bank-dollar.png</href>
+				</Icon>
+			</IconStyle>
+			<LabelStyle>
+				<scale>1.1</scale>
+			</LabelStyle>
+		</Style>
+		<StyleMap id='icon-971'>
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#icon-971-normal</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#icon-971-highlight</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Style id='icon-991-normal'>
+			<IconStyle>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/991-biz-cafe.png</href>
+				</Icon>
+			</IconStyle>
+			<LabelStyle>
+				<scale>0.0</scale>
+			</LabelStyle>
+		</Style>
+		<Style id='icon-991-highlight'>
+			<IconStyle>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/991-biz-cafe.png</href>
+				</Icon>
+			</IconStyle>
+			<LabelStyle>
+				<scale>1.1</scale>
+			</LabelStyle>
+		</Style>
+		<StyleMap id='icon-991'>
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#icon-991-normal</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#icon-991-highlight</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Style id='icon-993-normal'>
+			<IconStyle>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/993-biz-camera.png</href>
+				</Icon>
+			</IconStyle>
+			<LabelStyle>
+				<scale>0.0</scale>
+			</LabelStyle>
+		</Style>
+		<Style id='icon-993-highlight'>
+			<IconStyle>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/993-biz-camera.png</href>
+				</Icon>
+			</IconStyle>
+			<LabelStyle>
+				<scale>1.1</scale>
+			</LabelStyle>
+		</Style>
+		<StyleMap id='icon-993'>
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#icon-993-normal</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#icon-993-highlight</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Style id='line-1267FF-5-nodesc-normal'>
+			<LineStyle>
+				<color>ffFF6712</color>
+				<width>5</width>
+			</LineStyle>
+			<BalloonStyle>
+				<text><![CDATA[<h3>$[name]</h3>]]></text>
+			</BalloonStyle>
+		</Style>
+		<Style id='line-1267FF-5-nodesc-highlight'>
+			<LineStyle>
+				<color>ffFF6712</color>
+				<width>8.0</width>
+			</LineStyle>
+			<BalloonStyle>
+				<text><![CDATA[<h3>$[name]</h3>]]></text>
+			</BalloonStyle>
+		</Style>
+		<StyleMap id='line-1267FF-5-nodesc'>
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#line-1267FF-5-nodesc-normal</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#line-1267FF-5-nodesc-highlight</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Style id='poly-000000-1-76-normal'>
+			<LineStyle>
+				<color>ff000000</color>
+				<width>1</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>4C000000</color>
+				<fill>1</fill>
+				<outline>1</outline>
+			</PolyStyle>
+		</Style>
+		<Style id='poly-000000-1-76-highlight'>
+			<LineStyle>
+				<color>ff000000</color>
+				<width>2.0</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>4C000000</color>
+				<fill>1</fill>
+				<outline>1</outline>
+			</PolyStyle>
+		</Style>
+		<StyleMap id='poly-000000-1-76'>
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#poly-000000-1-76-normal</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#poly-000000-1-76-highlight</styleUrl>
+			</Pair>
+		</StyleMap>
+	</Document>
+</kml>
